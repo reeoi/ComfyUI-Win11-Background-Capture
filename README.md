@@ -1,4 +1,4 @@
-# ComfyUI Win11 Background Capture (Occluded) 👻
+# ComfyUI Win Capture 👻
 
 A ComfyUI custom node that allows capturing specific application windows on Windows 11, **even if they are covered by other windows (occluded)** or running in the background.
 
